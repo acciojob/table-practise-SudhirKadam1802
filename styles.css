@@ -4,7 +4,7 @@ table{
 	color: black;
 }
 
-th, tr,td{
+table,th, tr,td{
 	border: 1px solid black;
 }
 
